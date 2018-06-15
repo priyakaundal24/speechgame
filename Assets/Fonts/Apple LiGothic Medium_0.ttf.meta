@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 22aba78ab8eeb1341b6b64a56794946e
+timeCreated: 1497257021
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Apple LiGothic
+  fontNames:
+  - Apple LiGothic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhymocologist.Plugins", "Rhymocologist.Plugins.csproj", "{10D10229-0D4A-DF2B-5CB5-F45AA77B14BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhymocologist", "Rhymocologist.csproj", "{8C36D509-9792-98C4-62DA-B7C4D54F40A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhymocologist.Editor.Plugins", "Rhymocologist.Editor.Plugins.csproj", "{18FEEE7C-9374-1AF0-EE91-E17D6AF4F0D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D10229-0D4A-DF2B-5CB5-F45AA77B14BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D10229-0D4A-DF2B-5CB5-F45AA77B14BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D10229-0D4A-DF2B-5CB5-F45AA77B14BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D10229-0D4A-DF2B-5CB5-F45AA77B14BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C36D509-9792-98C4-62DA-B7C4D54F40A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C36D509-9792-98C4-62DA-B7C4D54F40A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C36D509-9792-98C4-62DA-B7C4D54F40A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C36D509-9792-98C4-62DA-B7C4D54F40A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18FEEE7C-9374-1AF0-EE91-E17D6AF4F0D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FEEE7C-9374-1AF0-EE91-E17D6AF4F0D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FEEE7C-9374-1AF0-EE91-E17D6AF4F0D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FEEE7C-9374-1AF0-EE91-E17D6AF4F0D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

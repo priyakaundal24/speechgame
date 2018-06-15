@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e6940342d81cda547ab000a4e5a2faae
+timeCreated: 1497257021
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Coco Gothic
+  fontNames:
+  - Coco Gothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a61c28d343e074a44bec555fa22a4228, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
